@@ -2,7 +2,7 @@
 personal introduction
 
 # Yiwen Che
-Trained as an Architect and Design Technologist, I am now a frontend developer, with a passion of building aesthetically Pleasing interfaces.
+I have a strong background in architectural design and concept visualization with a current focus on Design Technology in Architecture/Enginnering/Construction (AEC) industry.
 
 I enjoy creating digital products that solve problems while providing fluent user experience. Preferrably in Javascript or Python.
 
